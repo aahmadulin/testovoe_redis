@@ -38,7 +38,8 @@ docker compose build
 ```
 
 **Запустить контейнеры**:
-```docker compose up
+```
+docker compose up
 ``` 
 (или же с флагом -d: docker compose up -d, но так придется логи каждого контейнера отдельно смотреть)
 
